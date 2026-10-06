@@ -1,0 +1,2 @@
+metric,observed_difference,lower95,upper95,method
+Reference MAE minus selected MAE (rentals/hour),32.904929108011885,18.514246413171225,49.18924118864882,1000 moving 7-day block resamples of final-test paired errors; seed 20261006

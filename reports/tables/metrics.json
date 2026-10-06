@@ -1,0 +1,19 @@
+{
+  "hourly_rows": 17379,
+  "daily_rows": 731,
+  "total_rentals": 3292679,
+  "source_start": "2011-01-01",
+  "source_end": "2012-12-31",
+  "missing_source_hours": 165,
+  "incomplete_days": 76,
+  "selected_model": "Spline negative binomial",
+  "test_rows": 2168,
+  "test_start": "2012-10-01",
+  "test_end": "2012-12-31",
+  "test_mae": 47.0455058673408,
+  "baseline_mae": 79.9504349753526,
+  "test_wape": 0.214627090557165,
+  "mae_improvement_vs_reference": 0.41156660521179,
+  "pearson_dispersion": 1.09103096605035,
+  "registered_rental_share": 0.811698316173547
+}

@@ -1,0 +1,13 @@
+{
+  "dataset": "UCI Bike Sharing",
+  "creator": "Hadi Fanaee-T",
+  "doi": "https://doi.org/10.24432/C5W894",
+  "license": "CC BY 4.0",
+  "download_url": "https://archive.ics.uci.edu/static/public/275/bike%2Bsharing%2Bdataset.zip",
+  "sha256": {
+    "hour.csv": "e03de4ee4ef4dc376ac6e04bf829673c6269e8eba5c60fa121640fa2f829504f",
+    "day.csv": "a6bcf826782d3c0fbfdcbeead17cd0884185a0dafe8ff10cd48a874ee7ba18be",
+    "Readme.txt": "b92c8628622948bf0828c43a1b315d1517c3d7fd63654730d0dea379b8e88175"
+  },
+  "retrieved_at_utc": "2026-10-06T06:16:29Z"
+}

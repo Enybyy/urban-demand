@@ -1,0 +1,2 @@
+nominal_coverage,observed_test_coverage,mean_width,interpretation
+0.95,0.8759225092250923,263.2661439114391,Conditional count distribution; excludes parameter and weather forecast uncertainty

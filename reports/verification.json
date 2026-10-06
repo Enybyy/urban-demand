@@ -1,0 +1,7 @@
+{
+  "passed": true,
+  "rows": 17379,
+  "daily_rows": 731,
+  "checks": "Unique day-hour keys, target decomposition, hourly-daily reconciliation, missingness, chronological folds and excluded leakage features",
+  "selected_features": ["hour", "day_type", "weekday_f", "weather", "temp", "hum", "windspeed", "trend", "annual_sin", "annual_cos", "semiannual_sin", "semiannual_cos"]
+}
